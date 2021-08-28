@@ -20,7 +20,7 @@ public class Array_List {
         listaEmpleados.add(new Empleado("Santiago Rua", 5, 234445));
 
         // Adiciona un nuevo item al ArrayList en la posicion que se quiera
-        listaEmpleados.set(1, new Empleado("Jose Santos Lozano", 52, 1200000));
+        listaEmpleados.set(1, new Empleado("Jose Santos Lozano", 52, 1200000));  
 
         System.out.println("Cuantos elementos hay en el ArrayList " + listaEmpleados.size());
         System.out.println("---------------------------");
